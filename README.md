@@ -1,3 +1,3 @@
 #Index to my Agent Based Modeling Work
 
-[this is the link to my file](https://www.wm.edu)
+[this is the link to my file]( https://jelandrum.github.io/workshop/)
