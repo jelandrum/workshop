@@ -2,4 +2,4 @@
 
 [Exercise_1](Exercise1.md)
 
-[Exercise 2: Plotting Administrative Subdivisions](Exercise2.md)
+[Exercise_2: Plotting Administrative Subdivisions](Exercise2.md)
