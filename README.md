@@ -4,4 +4,4 @@
 
 [Exercise_2: Projecting, Plotting and Labelling Administrative Subdivisions](Exercise2.md)
 
-[Data_Science_Insight_1]
+[Data_Science_Insight_1](DS_Insight_1.pdf)
