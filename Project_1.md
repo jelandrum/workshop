@@ -12,6 +12,6 @@ Plot 2 is a barplot that indicates the share of the total population located wit
 ![](blz_barplot.png)
 
 ### Analysis: 
-Looking at these two plots led me to focus on the adm1 subdivision of Cayo. Plot 1 demonstrated that Cayo had a median-observed population, as it was the only orange color-coded subdivision. The Belize (adm1) district contained the former capital of Belize (i.e. Belize city). This area seen in Plot 1 is more coastal than that of Cayo. It is highly populated in part because of that as well as its culture, which likely attracts tourism. However, the capital was moved after a hurricaine to Belmopan which is located in the Cayo division. 
+Looking at these two plots led me to focus on the adm1 subdivision of Cayo. Plot 1 demonstrated that Cayo had a median-observed population, as it was the only orange color-coded subdivision. The Belize (adm1) district contained the former capital of Belize (i.e. Belize city). This area seen in Plot 1 is more coastal than that of Cayo. It is highly populated in part because of that as well as its culture, which likely attracts tourism. However, the capital was moved after a hurricaine to Belmopan which is located in the Cayo division. I believed that the distribution of the population across the Cayo division would allow me to map more defacto settlements. This area also gave me the possibility to integrate Mexico into the map boundaries, although, there was not enough time to progress that far. 
 
 ![](blz_hcs.png)
