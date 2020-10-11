@@ -6,7 +6,7 @@ Each subdivision is labelled and colored according to the density of its populat
 ![](blz_ppp_2019.png)
 
 ### Geometric_Bar_Plot
-Plot 2 is a barplot that indicates the share of the total population located within that subdivision. 
+Plot 2 is a barplot that indicates the share of the total population located within that subdivision. The y-axis labels each adm1 subdivision, while the x-axis represents the population size. 
 ![](blz_barplot.png)
 
 ![](blz_hcs.png)
