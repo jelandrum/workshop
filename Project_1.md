@@ -11,7 +11,7 @@ Plot 2 is a barplot that indicates the share of the total population located wit
 
 ![](blz_barplot.png)
 
-###Analysis: 
+### Analysis: 
 Looking at these two plots led me to focus on the adm1 subdivision of Cayo. Plot 1 demonstrated that Cayo had a median-observed population, as it was the only orange color-coded subdivision. The Belize (adm1) district contained the former capital of Belize (i.e. Belize city). This area seen in Plot 1 is more coastal than that of Cayo. It is highly populated in part because of that as well as tourism. 
 
 ![](blz_hcs.png)
