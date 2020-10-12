@@ -17,3 +17,6 @@ Looking at these two plots led me to focus on the adm1 subdivision of Cayo. Plot
 ### Defacto Settlement Boundaries
 Plot 3, Access to Health Care in Cayo, Belize, is a map of Cayo, an adm1 subdivision of Belize. Inside the map are the 6 settlements of Cayo represened by the dark gold region. Within the settlements there are color-coded dots signifying the population of the settlement. The color of the dot represents the density of the population where it is located. 
 ![](blz_hcs.png)
+
+### Analysis:
+The map demonstrates 6, of the 8, defacto settlements. The majority of the settlements are in the northern portion of the division. The largest settlement is in the northeast part of the Cayo division. This region is likely the city of Belmopan, where a large number of residents are government employees and their families. 
