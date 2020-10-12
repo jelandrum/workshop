@@ -19,4 +19,4 @@ Plot 3, Access to Health Care in Cayo, Belize, is a map of Cayo, an adm1 subdivi
 ![](blz_hcs.png)
 
 ### Analysis:
-The map demonstrates 6, of the 8, defacto settlements. The majority of the settlements are in the northern portion of the division. The largest settlement is in the northeast part of the Cayo division. This region is likely the city of Belmopan, where a large number of residents are government employees and their families. 
+The map demonstrates 6, of the 8, defacto settlements. The majority of the settlements are in the northern portion of the division. The largest settlement is in the northeast part of the Cayo division. This region is likely the city of Belmopan, where a large number of residents are government employees and their families. This division borders Mexico which is indicative of the primary road's direction. San Ignacio is another major city in cayo shown by the large orange dot, representing a population of close to 20,000. 
