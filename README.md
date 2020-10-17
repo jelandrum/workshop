@@ -6,4 +6,6 @@
 
 [Data_Science_Insight_1](DS_Insight_1.pdf)
 
+[Data_Science_Insight_2]
+
 [Project_1](Project_1.md)
