@@ -9,3 +9,5 @@
 [Data_Science_Insight_2](Data_Science_Insight_2.md)
 
 [Project_1](Project_1.md)
+
+[Project_2](Project_2.md)
