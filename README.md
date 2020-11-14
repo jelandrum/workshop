@@ -12,6 +12,8 @@
 
 [Data_Science_Insight_3](Data_Science_Insight_3.md)
 
+[Data_Science_Insight_4](Data_Science_Insight_4.md)
+
 ## Projects
 [Project_1](Project_1.md)
 
