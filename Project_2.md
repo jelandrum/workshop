@@ -5,6 +5,8 @@ I am a William & Mary student taking a Agent Based Modeling course, for which I 
 
 Density Plot:
 ![](hhs_density.png)
+Adm1 Density Plot: 
+![](adm1_density.png)
 
 Raw:
 ![](raw.png)
