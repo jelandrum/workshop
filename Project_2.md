@@ -11,14 +11,14 @@ This survey was conducted in 2014 in Guatemale. Information on each household's 
 ## Guatemala Administrative Subdivision: Quetzaltenango
 ![](quezaltenango.png)
 
-Density Plot:
+## Density Plot:
 ![](hhs_density.png)
-Adm1 Density Plot: 
+## Adm1 Density Plot: 
 ![](adm1_density.png)
 
-Raw:
+## Raw:
 ![](raw.png)
 Scale:
 ![](scale.png)
-Normal:
+## Normal:
 ![](normal.png)
