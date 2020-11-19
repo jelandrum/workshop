@@ -7,7 +7,7 @@ The DHS household survey I used consisted of:
   1) 2,598 households 
   2) 21,383 persons
   
-This survey was conducted in 2014 in Guatemale. Information on each household's members was included in the survey. There were many variables, however, the ones that I isolated during my analysis were the variable weights, household size, gender, age, education level of individuals, and location. 
+This survey was conducted in 2014 in Guatemala. Information on each household's members was included in the survey. There were many variables, however, the ones that I isolated during my analysis were the variable weights, household size, gender, age, education level of individuals, and location. 
 ## Guatemala Administrative Subdivision: Quetzaltenango
 I chose to pivot from households to persons at the first administrative subdivision (or adm1) level. After deciding that, I proceeded to investigate Quetzaltenango (or Quezaltenango), Guatemala. The current estimated population of Quetzaltenango is around 200,000 persons. Though, at the time that this survey was conducted (i.e. 2014) the population was about 50,000 less than that. 
 ![](quezaltenango.png)
