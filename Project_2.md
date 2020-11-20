@@ -15,6 +15,8 @@ I say that because the nature of the survey was for households not persons so al
 a) one being a country and 
 b) the other being a subdivision of that country I think it is fair to assume that the error in the latter model would be higher thatn in the first model, when using the DHS survey one similar in configuration. 
 
+To further improve my measures of accuracy I could include more variables that are telling of the population in Guatemala. Variables such as morbidity, fertility, health, and environmental events or dynamics have an impact on populations and could be helpful for the modeling accuracy to include. 
+
 ![](quezaltenango.png)
 
 ## Density Plot:
