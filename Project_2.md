@@ -21,6 +21,8 @@ To further improve my measures of accuracy I could include more variables that a
 
 ## Density Plot:
 ![](hhs_density.png)
+
+The density plot above looks at the household size and the frequency of a household at that specific size and the prevalence of a households at that specific size. The prevalence is shown by the density of that size within the household dataset on Guatemala. Whereas, in the sampled household object the household size frequency is estimated with a higher accuracy since it is using a smaller subset of houses (this is the plot presented below). 
 ## Adm1 Density Plot: 
 ![](adm1_density.png)
 
