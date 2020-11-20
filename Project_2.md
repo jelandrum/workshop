@@ -13,7 +13,8 @@ I chose to pivot from households to persons at the first administrative subdivis
 
 I say that because the nature of the survey was for households not persons so already we have expanded this survey past its original scope. Additionally, the DHS survey was on the whole country of Guatemala, yet I still isolated a part of the country and predicted the population based on selected variables. Logically, when we juxtapose two models like this...
 
-a) one being a country and 
+a) one being a country and
+
 b) the other being a subdivision of that country 
 
 I think it is fair to assume that the error in the latter model would be higher thatn in the first model, when using the DHS survey one similar in configuration. 
