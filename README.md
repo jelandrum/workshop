@@ -20,4 +20,5 @@
 [Project_2](Project_2.md)
 
 [Final_Project](Project_3(Final).md)
- theme: minima
+
+theme: minima
