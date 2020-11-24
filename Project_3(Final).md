@@ -9,6 +9,7 @@ To begin my introduction to gravity models I followed a practice example. "Dr Ds
 ## Agent Based Modeling of Guatemala:
 ### Guatemala Gravity Model
 Pursuant to my last project, I chose to generate a gravity model of Guatemala. In class, we read an article titled "Modeling internal migration flows in sub-Saharan Africa using census microdata" (Garcia et al.). Similar to the modeling outlined in this publication, my model of Guatemala will reflect an approximation of its internal migration flows. The model that I included below was produced from previously recorded migration data (i.e. from 2014). I combined the data I retrieved from WorldPop and my country's shapefiles in order to display the routes taken during travel between the states (or adm1 subdivisions) of Guatemala.  
+### In/Out Migration in Guatemala
 ![](inmigration.png)
 ![](outmigration.png)
 ![](migration.png)
