@@ -21,4 +21,3 @@
 
 [Final_Project](Project_3(Final).md)
 
-theme: minima
