@@ -7,4 +7,5 @@
 ## Agent Based Modeling of Guatemala
 ![](inmigration.png)
 ![](outmigration.png)
+![](migration.png)
 ![](output.gif)
