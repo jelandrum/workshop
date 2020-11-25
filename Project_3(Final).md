@@ -12,7 +12,7 @@ Pursuant to my last project, I chose to generate a gravity model of Guatemala. I
 ![](inmigration.png)
 ![](outmigration.png)
 
-I distributed points across Guatemala with the goal of depicting a population equivalent to that of each state. The center point of each state is used as a base point for representing migration from and to other state boundaries within Guatemala. Another way of distributing points might be to include population distribution data from raster data or cross comparing the population data prior to mapping for a higher accuracy in population. In places where there is less travel or migration data, making use of phone, credit card, or tourist data/rates to predict migration may be a future avenue for exploration. 
+I distributed points across Guatemala with the goal of depicting a population equivalent to that of each state. The center point of each state is used as a base point for representing migration from and to other state boundaries within Guatemala. The migration plot below is modeling the movement of individual agents from each origin to its corresponding destination. Another way of distributing points might be to include population distribution data from raster data or cross comparing the population data prior to mapping for a higher accuracy in population. In places where there is less travel or migration data, making use of phone, credit card, or tourist data/rates to predict migration may be a future avenue for exploration. 
 
 ![](migration.png)
 ![](output.gif)
