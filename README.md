@@ -1,6 +1,3 @@
-# Index to my Machine Learning Work
-[Project_0: Getting Started](Project_0.md)
-
 # Index to my Agent Based Modeling Work
 
 [Exercise_1: Getting Started with R & RStudio](Exercise1.md)
